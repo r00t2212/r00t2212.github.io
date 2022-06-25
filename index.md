@@ -4,7 +4,7 @@
 
 ## Menu
 
-1. [About Me](./Pages/about_me.md)
+1. [About Me](./Pages/about_me.html)
 2. Projects
 3. Publications
 
