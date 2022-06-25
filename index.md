@@ -1,8 +1,8 @@
-#Home Page
+# Home Page
 
 ![Me](./Images/tmp.jpeg)
 
-##Menu
+## Menu
 
 1. [About Me](./Pages/about_me.md)
 2. Projects
